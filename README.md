@@ -9,7 +9,7 @@ Dwonload&Install
 
 git clone https://github.com/hasib116/ddos-web.git
 
-cd ddos-web-main
+cd ddos-web
 
 chmod +x ddos_web.py
 
