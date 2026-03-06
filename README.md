@@ -7,9 +7,9 @@ A Distributed Denial of Service (DDoS) attack is an attempt to make an online se
 
 Dwonload&Install
 
-git@github.com:hasib116/ddos-web.git
+git clone https://github.com/hasib116/ddos-web.got
 
-cd DDos_web
+cd ddos-web-main
 
 chmod +x ddos_web.py
 
